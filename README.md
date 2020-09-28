@@ -1,6 +1,6 @@
 # 2021RobotCADTest
 Test repository for the 2021 robotics season
-Below is the list of supported file types. If you have a file type that is not on the list please contact team3082test@protonmail.ch to have the file reviewed and support added. 
+Below is the list of supported file types. If you have a file type that is not on the list please contact team3082test@pm.me to have the file reviewed and support added. 
 
 *.stl
 *.ipt
